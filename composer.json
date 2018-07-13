@@ -15,5 +15,6 @@
         "source": "https://github.com/tvpk/annai-d8"
     },
     "license": "GPL-2.0-or-later",
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "version": "1.0.0"
 }
