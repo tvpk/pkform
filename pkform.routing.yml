@@ -1,0 +1,15 @@
+pkform.pkform:
+  path: 'pkform'
+  defaults:
+    _controller: '\Drupal\pkform\Controller\PkFormController::content' 
+    _title: 'PKs Form'
+  requirements:
+    _permission: 'access content'
+    
+pkform.settings:
+  path: '/admin/structure/pkform/settings'
+  defaults:
+    _form: '\Drupal\pkform\Form\PkFormConfiguration'
+    _title: 'PKs Form Settings'
+  requirements:
+    _permission: 'administer site configuration'

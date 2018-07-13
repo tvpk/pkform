@@ -1,0 +1,6 @@
+name: PK Form
+type: module
+description: 'A simple form to display first and last name.'
+package: PK Form
+version: VERSION
+core: 8.x
