@@ -1,0 +1,19 @@
+{
+    "name": "drupal/pkform",
+    "description": "PK Form is a sample module.",
+    "type": "drupal-module",
+    "homepage": "http://www.google.com",
+    "authors": [
+        {
+            "name": "Paul Kim",
+            "homepage": "http://www.google.com",
+            "role": "Creator/Maintainer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/tvpk/annai-d8/issues",
+        "source": "https://github.com/tvpk/annai-d8"
+    },
+    "license": "GPL-2.0-or-later",
+    "minimum-stability": "dev"
+}
